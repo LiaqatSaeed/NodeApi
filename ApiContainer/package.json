@@ -1,0 +1,16 @@
+{
+  "name": "dockerexercise1",
+  "version": "1.0.0",
+  "description": "This is the node app for docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LSKhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "3.0.7",
+    "node-fetch": "^2.1.2"
+  }
+}
